@@ -1,2 +1,2 @@
-# task-mangere
+# task-manager
 your best task manager
